@@ -7,20 +7,14 @@ const Shop = () => {
         <div className="col-sm-6">
           <div className="card">
             <div className="card-body">
-              <h5 className="card-title">Special title treatment</h5>
-              <p className="card-text">
-                With supporting text below as a natural lead-in to additional
-                content.
-              </p>
-              <a href="#" className="btn btn-primary">
-                Add to cart
-              </a>
+              <h5 className="card-title">Deposit/Withdrow money</h5>
+              <p className="card-text">Update balance</p>
             </div>
-            <div class="card-footer border-success text-end">
-              <a href="#" className="btn btn-primary mx-2">
+            <div className="card-footer border-success ">
+              <a href="/" className="btn btn-primary mx-2">
                 -
               </a>
-              <a href="#" className="btn btn-primary mx-2">
+              <a href="/" className="btn btn-primary mx-2">
                 +
               </a>
             </div>
